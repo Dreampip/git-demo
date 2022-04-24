@@ -7,8 +7,8 @@ package com.pip.app;
  */
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("hello,Git1");
-        System.out.println("hello,Git2");
-        System.out.println("hello,Git3");
+        System.out.println("hello,Git1!");
+        System.out.println("hello,Git2!");
+        System.out.println("hello,Git3!");
     }
 }
