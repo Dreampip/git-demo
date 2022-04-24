@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello,Git4!-hot fix");
         System.out.println("master 测试合并冲突");
         System.out.println("hot fix 测试冲突");
+        System.out.println("pull 测试");
     }
 }
